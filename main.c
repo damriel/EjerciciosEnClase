@@ -4,7 +4,7 @@
 
 /**
  * Un error que no logré solucionar es que sin ingresar segundo apellido
- * y apretando enter, al final queda guardado y desfasa el formato final.
+ * y apretando enter, al final queda guardado y desfasa el formato final
  */
 
 int main()
